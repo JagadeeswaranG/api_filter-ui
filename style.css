@@ -1,0 +1,14 @@
+td,th {
+  width: 20%;
+border: black solid;
+}
+
+
+th{
+    border: black solid;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
